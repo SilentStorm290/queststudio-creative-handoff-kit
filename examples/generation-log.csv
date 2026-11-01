@@ -1,0 +1,3 @@
+attempt_id,project_label,brief_revision,asset_type,tool_model,settings_summary,input_reference,prompt_script_revision,target_spec,estimated_usage,estimated_usage_unit,recorded_usage,recorded_usage_unit,output_file,review_state,review_note,supersedes_attempt_id
+VO-01,lumora-demo-example,brief-v01,voiceover,,,references/script-v02.txt,script-v02,10-15 seconds; maximum 15 seconds,,,,,audio/vo-01-example.wav,revise,HYPOTHETICAL: extra introductory sentence; no audio generated,
+VO-02,lumora-demo-example,brief-v01,voiceover,,,references/script-v02.txt,script-v02,10-15 seconds; maximum 15 seconds,,,,,audio/vo-02-example.wav,not_checked,HYPOTHETICAL: replacement take has not been produced or reviewed,VO-01

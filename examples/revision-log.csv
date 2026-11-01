@@ -1,0 +1,2 @@
+revision_id,project_label,source_attempt_id,requirement,requested_correction,replacement_attempt_id,review_state,review_note
+REV-01,lumora-demo-example,VO-01,Read approved script only,Remove the extra introductory sentence,VO-02,not_checked,HYPOTHETICAL: no replacement audio exists
