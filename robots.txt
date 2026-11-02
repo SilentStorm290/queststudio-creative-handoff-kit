@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://silentstorm290.github.io/queststudio-creative-handoff-kit/sitemap.xml
