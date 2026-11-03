@@ -1,0 +1,7 @@
+shot_id,planned_start_seconds,planned_end_seconds,purpose,framing,visible_action,continuity_requirements,acceptance_check,selected_filename,review_state
+S01,0,3,,,,,,,not_checked
+S02,3,7,,,,,,,not_checked
+S03,7,12,,,,,,,not_checked
+S04,12,17,,,,,,,not_checked
+S05,17,24,,,,,,,not_checked
+S06,24,30,,,,,,,not_checked
